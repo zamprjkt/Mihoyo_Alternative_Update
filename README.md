@@ -18,3 +18,11 @@ bitsadmin /transfer user /download /priority high <link downloaad> <direktori\na
 ```
 #### alternative males nulis
 [v.5.2+Jepanese Audio](https://raw.githubusercontent.com/zamprjkt/Honkai-Impact-3rd-Repository/main/batmalesnulis/v.5.2%20Japanese.bat)
+
+
+Credits:
+=======
+#### Genshin Repo
+ * [**Rifqi Arief**](https://https://github.com/rapdodge)
+
+---------------------------------------------------------------------------------------
