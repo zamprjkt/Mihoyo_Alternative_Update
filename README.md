@@ -24,6 +24,11 @@ Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan in
 ###### Bitsadmin
 ```bash
 # klik start lalu cari "cmd" dan buka dengan opsi "run as admin", lalu ketikan perintah berikut
+cd C:\user\nama_user\HI3
+```
+###### sesuaikan Direktori dimana kamu akan menginstall HI3
+```bash
+# Unduh melalui Bitsadmin
 bitsadmin /transfer user /download /priority high <link downloaad> <direktori\nama.file>
 ```
 #### alternative males nulis
