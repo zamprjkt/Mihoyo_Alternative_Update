@@ -3,7 +3,7 @@
 <a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png" title="Banner"/></a>
 </p>
 
-Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan ini, Anda dapat mengunduh pembaruan Honkai Impact tanpa peluncur, tetapi menggunakan pengelola unduhan (seperti IDM, FDM, XDM, uGet, dll.)
+Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan ini, Anda dapat mengunduh pembaruan Honkai Impact tanpa peluncur, tetapi menggunakan pengelola unduhan (seperti IDM, XDM, Wget, Axel, Bitsadmin, dll.)
 
 
 # Global Version
