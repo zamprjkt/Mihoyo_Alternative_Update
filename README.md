@@ -1,6 +1,6 @@
 # Honkai Impact Repository
 <p align="center">
-<a href="https://imgur.com/8RoBGQS"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png" title="Banner"/></a>
+<a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png" title="Banner"/></a>
 </p>
 
 Repositori ini menyertakan tautan langsung ke pembaruan Honkai Impact, dengan ini, Anda dapat mengunduh pembaruan Honkai Impact tanpa peluncur, tetapi menggunakan pengelola unduhan (seperti IDM, FDM, XDM, uGet, dll.)
