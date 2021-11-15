@@ -15,5 +15,6 @@ This repository includes direct links to Honkai Impact updates, with this, it al
 ```bash
 # klik start lalu cari "cmd" dan buka dengan opsi "run as admin", lalu ketikan perintah berikut
 bitsadmin /transfer user /download /priority high <link downloaad> <direktori\nama.file>
-# alternative males nulis
+
+### alternative males nulis ###
 [v.5.2+Jepanese Audio](https://raw.githubusercontent.com/zamprjkt/Honkai-Impact-3rd-Repository/main/batmalesnulis/v.5.2%20Japanese.bat)
