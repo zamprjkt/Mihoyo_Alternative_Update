@@ -38,6 +38,8 @@ bitsadmin /transfer user /download /priority high <link downloaad> <direktori\na
 # alternative males nulis
 untuk yang males nuis sintak di terminal bisa langsung run file .bat [disini](https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/releases/tag/Global.rev)
 
+Demikian tutorial Alternatif Installsi Honkai Impact 3 yang dapat kamu coba ketika mengalami kendala installsi mellui launcher.exe
+semoga bermanfaat :)
 
 Credits:
 =======
