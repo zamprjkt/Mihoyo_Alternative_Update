@@ -17,7 +17,7 @@
 
 #### Berikut Alternatif update Honkai Impact 3 yang dapat kamu unduh langsung melalui Browser / Downloader tool
 
-# Global Version 5.2
+# 𝐆𝐥𝐨𝐛𝐚𝐥 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝟓.𝟐
 <img src="https://raw.githubusercontent.com/zamprjkt/Honkai-Impact-3rd-Repository/HI3/5.2.png" title="update"/>
 
 ###### Direct Full Section
@@ -25,7 +25,7 @@
 
 ---------------------------------------------------------------------------------------
 
-# windows terminal Alternative
+# 𝐰𝐢𝐧𝐝𝐨𝐰𝐬 𝐭𝐞𝐫𝐦𝐢𝐧𝐚𝐥 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞
 
 ###### Bitsadmin
 ```bash
@@ -45,7 +45,7 @@ bitsadmin /transfer user /download /priority high <link downloaad> <direktori\na
 
 ---------------------------------------------------------------------------------------
 
-# alternative males nulis
+# 𝐚𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐦𝐚𝐥𝐞𝐬 𝐧𝐮𝐥𝐢𝐬
 - untuk yang males nulis sintak di terminal bisa langsung run file .bat [disini](https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/releases/tag/Global.rev)
 
 # 𝐃𝐞𝐦𝐢𝐤𝐢𝐚𝐧 𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐟 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐬𝐢 𝐇𝐨𝐧𝐤𝐚𝐢 𝐈𝐦𝐩𝐚𝐜𝐭 𝟑 𝐲𝐚𝐧𝐠 𝐝𝐚𝐩𝐚𝐭 𝐤𝐚𝐦𝐮 𝐜𝐨𝐛𝐚 𝐤𝐞𝐭𝐢𝐤𝐚 𝐦𝐞𝐧𝐠𝐚𝐥𝐚𝐦𝐢 𝐤𝐞𝐧𝐝𝐚𝐥𝐚 𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐬𝐢 𝐦𝐞𝐥𝐚𝐥𝐮𝐢 𝐥𝐚𝐮𝐧𝐜𝐡𝐞𝐫.𝐞𝐱𝐞
