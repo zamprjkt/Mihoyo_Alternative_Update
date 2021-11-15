@@ -13,11 +13,14 @@
 
 Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan ini, Anda dapat mengunduh pembaruan Honkai Impact tanpa peluncur, tetapi menggunakan pengelola unduhan (seperti IDM, XDM, Wget, Axel, Bitsadmin, dll.)
 
+---------------------------------------------------------------------------------------
+
+Berikut Alternatif update Honkai Impact 3 yang dapat kamu unduh langsung melalui Browser / Downloader tool
 
 # Global Version 5.2
 <a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/5.2.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/5.2.png" title="update"/></a>
 ###### Direct Full Section
-[v.5.2+Jepanese Audio](https://cdn.winten.workers.dev/2:/Data/HI3_GLB_5.2_JAPANESEAUDIO.iso)
+[v.5.2+Jepanese Audio Direct download](https://cdn.winten.workers.dev/2:/Data/HI3_GLB_5.2_JAPANESEAUDIO.iso)
 
 ---------------------------------------------------------------------------------------
 
