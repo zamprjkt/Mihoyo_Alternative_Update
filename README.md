@@ -11,8 +11,9 @@ Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan in
 ###### Full Install Section
 [v.5.2+Jepanese Audio](https://cdn.winten.workers.dev/2:/Data/HI3_GLB_5.2_JAPANESEAUDIO.iso)
 
-### windows terminal ###
+# windows terminal Alternative
 
+###### Bitsadmin
 ```bash
 # klik start lalu cari "cmd" dan buka dengan opsi "run as admin", lalu ketikan perintah berikut
 bitsadmin /transfer user /download /priority high <link downloaad> <direktori\nama.file>
