@@ -31,12 +31,13 @@ cd C:\user\nama_user\HI3
 # Unduh melalui Bitsadmin
 bitsadmin /transfer user /download /priority high <link downloaad> <direktori\nama.file>
 ```
-<p>klik kanan iso lalu pilih mount<b>
-salin folder ke direktori dimana kamu hendak menginstall HI3<b>
-install setup.exe dan pilih direktori dimana kamu salinkan folder data HI3</p>
+###### Petunjuk Installsi
+klik kanan iso lalu pilih mount
+salin folder ke direktori dimana kamu hendak menginstall HI3
+install setup.exe dan pilih direktori dimana kamu salinkan folder data HI3<
 ---------------------------------------------------------------------------------------
 # alternative males nulis
-<p>untuk yang males nuis sintak di terminal bisa langsung run file .bat [disini](https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/releases/tag/Global.rev)</p>
+untuk yang males nuis sintak di terminal bisa langsung run file .bat [disini](https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/releases/tag/Global.rev)
 
 Demikian tutorial Alternatif Installsi Honkai Impact 3 yang dapat kamu coba ketika mengalami kendala installsi mellui launcher.exe
 semoga bermanfaat :)
