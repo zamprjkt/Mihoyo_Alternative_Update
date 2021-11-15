@@ -31,7 +31,8 @@ Berikut Alternatif update Honkai Impact 3 yang dapat kamu unduh langsung melalui
 # klik start lalu cari "cmd" dan buka dengan opsi "run as admin", lalu ketikan perintah berikut
 cd C:\user\nama_user\HI3
 ```
-###### sesuaikan Direktori dimana kamu akan mengunduh HI3
+sesuaikan Direktori dimana kamu akan mengunduh HI3
+
 ```bash
 # Unduh melalui Bitsadmin
 bitsadmin /transfer user /download /priority high <link downloaad> <direktori\nama.file>
