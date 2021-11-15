@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png" title="Banner"/></a>
 </p>
-<a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository"><img src="https://img.shields.io/github/forks/elangosundar/awesome-README-templates" alt="Forks Badge"/></a>
+[![Forks][forks-shield]][forks-url]
 
 Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan ini, Anda dapat mengunduh pembaruan Honkai Impact tanpa peluncur, tetapi menggunakan pengelola unduhan (seperti IDM, XDM, Wget, Axel, Bitsadmin, dll.)
 
