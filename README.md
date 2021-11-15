@@ -4,7 +4,7 @@
 </p>
 
 This repository includes direct links to Honkai Impact updates, with this, it allows you to download Honkai Impact updates without a launcher, but using a download manager (like IDM, FDM, XDM, uGet, etc.)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamprjkt&theme=vue&layout=compact&hide=Rich%20Text%20Format,CSS,HTML,VBA)
+
 
 # Global Version
 
