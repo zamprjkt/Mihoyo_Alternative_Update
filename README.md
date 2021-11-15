@@ -18,7 +18,7 @@ Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan in
 <a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/5.2.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/5.2.png" title="update"/></a>
 ###### Direct Full Section
 [v.5.2+Jepanese Audio](https://cdn.winten.workers.dev/2:/Data/HI3_GLB_5.2_JAPANESEAUDIO.iso)
-
+---------------------------------------------------------------------------------------
 # windows terminal Alternative
 
 ###### Bitsadmin
@@ -26,11 +26,15 @@ Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan in
 # klik start lalu cari "cmd" dan buka dengan opsi "run as admin", lalu ketikan perintah berikut
 cd C:\user\nama_user\HI3
 ```
-###### sesuaikan Direktori dimana kamu akan menginstall HI3
+###### sesuaikan Direktori dimana kamu akan mengunduh HI3
 ```bash
 # Unduh melalui Bitsadmin
 bitsadmin /transfer user /download /priority high <link downloaad> <direktori\nama.file>
 ```
+###### klik kanan iso lalu pilih mount
+###### salin folder ke direktori dimana kamu hendak menginstall HI3
+###### install setup.exe dan pilih direktori dimana kamu salinkan folder data HI3
+---------------------------------------------------------------------------------------
 #### alternative males nulis
 untuk yang males nuis sintak di terminal bisa langsung run file .bat [disini](https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/releases/tag/Global.rev)
 
