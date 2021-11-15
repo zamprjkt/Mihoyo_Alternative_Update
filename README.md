@@ -33,6 +33,6 @@ untuk yang males nuis sintak di terminal bisa langsung run file .bat [disini](ht
 Credits:
 =======
 #### Genshin Repo
- * [**Rifqi Arief**](https://https://github.com/rapdodge)
+ * [**Rifqi Arief**](https://github.com/rapdodge)
 
 ---------------------------------------------------------------------------------------
