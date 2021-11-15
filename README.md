@@ -21,7 +21,7 @@ Berikut Alternatif update Honkai Impact 3 yang dapat kamu unduh langsung melalui
 <img src="https://raw.githubusercontent.com/zamprjkt/Honkai-Impact-3rd-Repository/HI3/5.2.png" title="update"/>
 
 ###### Direct Full Section
-[v.5.2+Jepanese Audio Direct download](https://cdn.winten.workers.dev/2:/Data/HI3_GLB_5.2_JAPANESEAUDIO.iso)
+- [v.5.2+Jepanese Audio Direct download](https://cdn.winten.workers.dev/2:/Data/HI3_GLB_5.2_JAPANESEAUDIO.iso)
 
 ---------------------------------------------------------------------------------------
 
@@ -32,23 +32,23 @@ Berikut Alternatif update Honkai Impact 3 yang dapat kamu unduh langsung melalui
 # klik start lalu cari "cmd" dan buka dengan opsi "run as admin", lalu ketikan perintah berikut
 cd C:\user\nama_user\HI3
 ```
-sesuaikan Direktori dimana kamu akan mengunduh HI3
+- sesuaikan Direktori dimana kamu akan mengunduh HI3
 
 ```bash
 # Unduh melalui Bitsadmin
 bitsadmin /transfer user /download /priority high <link downloaad> <direktori\nama.file>
 ```
 ###### Petunjuk Installsi
-klik kanan iso lalu pilih mount
-salin folder ke direktori dimana kamu hendak menginstall HI3
-install setup.exe dan pilih direktori dimana kamu salinkan folder data HI3
+- klik kanan iso lalu pilih mount
+- salin folder ke direktori dimana kamu hendak menginstall HI3
+- install setup.exe dan pilih direktori dimana kamu salinkan folder data HI3
 
 ---------------------------------------------------------------------------------------
 
 # alternative males nulis
-untuk yang males nuis sintak di terminal bisa langsung run file .bat [disini](https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/releases/tag/Global.rev)
+- untuk yang males nuis sintak di terminal bisa langsung run file .bat [disini](https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/releases/tag/Global.rev)
 
-Demikian tutorial Alternatif Installsi Honkai Impact 3 yang dapat kamu coba ketika mengalami kendala installsi mellui launcher.exe
+- Demikian tutorial Alternatif Installsi Honkai Impact 3 yang dapat kamu coba ketika mengalami kendala installsi mellui launcher.exe
 semoga bermanfaat :)
 
 Credits:
