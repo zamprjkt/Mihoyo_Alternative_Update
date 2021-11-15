@@ -1,4 +1,4 @@
-![#ffb86c](https://via.placeholder.com/15/ffb86c/000000?text=+) `# Honkai Impact Repository`
+# Honkai Impact Repository
 <p align="center">
 <a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png" title="Banner"/></a>
 </p>
