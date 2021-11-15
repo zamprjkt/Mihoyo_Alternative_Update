@@ -16,7 +16,7 @@ Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan in
 
 # Global Version
 
-###### Full Install Section
+###### Dirrect Full Section
 [v.5.2+Jepanese Audio](https://cdn.winten.workers.dev/2:/Data/HI3_GLB_5.2_JAPANESEAUDIO.iso)
 
 # windows terminal Alternative
