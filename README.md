@@ -33,6 +33,8 @@ untuk yang males nuis sintak di terminal bisa langsung run file .bat [disini](ht
 Credits:
 =======
 #### Genshin Repo
+ * [**Honkai Impact**](https://honkaiimpact3.mihoyo.com/global/en-us/home)
  * [**Rifqi Arief**](https://github.com/rapdodge)
+
 
 ---------------------------------------------------------------------------------------
