@@ -1,4 +1,4 @@
-<span style="color: #ffb86c"> Honkai Impact Repository </span>
+<span style="color:orange"> Honkai Impact Repository </span>
 <p align="center">
 <a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png" title="Banner"/></a>
 </p>
