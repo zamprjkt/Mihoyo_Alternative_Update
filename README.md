@@ -18,7 +18,7 @@ Repositori ini menyertakan tautan langsung ke pembaruan Honkai Impact, dengan in
 bitsadmin /transfer user /download /priority high <link downloaad> <direktori\nama.file>
 ```
 #### alternative males nulis
-[v.5.2+Jepanese Audio](https://raw.githubusercontent.com/zamprjkt/Honkai-Impact-3rd-Repository/main/batmalesnulis/v.5.2%20Japanese.bat)
+untuk yang males nuis sintak di terminal bisa langsung run file .bat [disini](https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/releases/tag/Global.rev)
 
 
 Credits:
