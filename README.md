@@ -19,6 +19,7 @@ Berikut Alternatif update Honkai Impact 3 yang dapat kamu unduh langsung melalui
 
 # Global Version 5.2
 <img src="https://raw.githubusercontent.com/zamprjkt/Honkai-Impact-3rd-Repository/HI3/5.2.png" title="update"/>
+
 ###### Direct Full Section
 [v.5.2+Jepanese Audio Direct download](https://cdn.winten.workers.dev/2:/Data/HI3_GLB_5.2_JAPANESEAUDIO.iso)
 
