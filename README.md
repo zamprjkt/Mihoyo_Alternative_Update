@@ -3,6 +3,7 @@
 <a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png" title="Banner"/></a>
 </p>
 
+[![Forks][forks-shield]][forks-url]
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
