@@ -1,6 +1,6 @@
 # Honkai Impact Repository
 <p align="center">
-<a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/852886.png" title="Banner"/></a>
+<a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/banner.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/banner.png" title="Banner"/></a>
 </p>
 
 <!-- [![Forks][forks-shield]][forks-url]
