@@ -11,7 +11,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Forks][forks-shield]][forks-url]
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://https://github.com/zamprjkt/Honkai-Impact-3rd-Repository
 
 Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan ini, Anda dapat mengunduh pembaruan Honkai Impact tanpa peluncur, tetapi menggunakan pengelola unduhan (seperti IDM, XDM, Wget, Axel, Bitsadmin, dll.)
 
