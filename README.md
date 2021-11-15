@@ -1,6 +1,6 @@
 # Honkai Impact Repository
 <p align="center">
-<a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/banneralt.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/banneralt.png" title="Banner"/></a>
+<a href="https://raw.githubusercontent.com/zamprjkt/Honkai-Impact-3rd-Repository/HI3/banneralt.png"><img src="https://raw.githubusercontent.com/zamprjkt/Honkai-Impact-3rd-Repository/HI3/banneralt.png" title="Banner"/></a>
 </p>
 
 <!-- [![Forks][forks-shield]][forks-url]
@@ -18,7 +18,7 @@ Repositori ini berfungsi sebagai Alternatif backup data Honkai Impact, dengan in
 Berikut Alternatif update Honkai Impact 3 yang dapat kamu unduh langsung melalui Browser / Downloader tool
 
 # Global Version 5.2
-<a href="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/5.2.png"><img src="https://github.com/zamprjkt/Honkai-Impact-3rd-Repository/raw/main/5.2.png" title="update"/></a>
+<a <img src="https://raw.githubusercontent.com/zamprjkt/Honkai-Impact-3rd-Repository/HI3/5.2.png" title="update"/></a>
 ###### Direct Full Section
 [v.5.2+Jepanese Audio Direct download](https://cdn.winten.workers.dev/2:/Data/HI3_GLB_5.2_JAPANESEAUDIO.iso)
 
